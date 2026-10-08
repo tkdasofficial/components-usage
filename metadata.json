@@ -1,0 +1,6 @@
+{
+  "name": "Aether Workspace - Hyper Copilot & Component System",
+  "description": "An all-in-one AI workspace and production-grade monochrome component library with 80+ modular React components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
